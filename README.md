@@ -1,5 +1,5 @@
 # DeobfTool
-Quick and dirty way of deobfuscating a list of class/field/variable names.
+Quick and dirty way of deobfuscating a list of class names.
 
 ## Example Usage
 
