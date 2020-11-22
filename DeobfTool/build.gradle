@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+repositories
+{
+    jcenter()
+    mavenCentral()
+}
+
+dependencies 
+{
+	compile 'com.opencsv:opencsv:5.3'
+	compile group: 'org.apache.commons', name: 'commons-csv', version: '1.8'
+}
